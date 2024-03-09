@@ -2,6 +2,8 @@
 
 **This repository was created for SRIP-2024.**
 
+Kaggle Notebook Link: https://www.kaggle.com/code/k0vidsharma/srip-2024/notebook
+
 ### It contains the following files:
 
 1. **OnevsRestPrediction:** Contains all the results of the OnevsRest Classification using pre-trained and custom models.
