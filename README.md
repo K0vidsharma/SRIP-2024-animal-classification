@@ -1,6 +1,7 @@
 # Animal Classification
 
-Kaggle Notebook Link: https://www.kaggle.com/code/k0vidsharma/srip-2024/notebook
+Kaggle Notebook Link: https://www.kaggle.com/code/k0vidsharma/animal-classification
+
 
 ### It contains the following files:
 
