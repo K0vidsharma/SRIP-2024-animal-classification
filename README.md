@@ -1,6 +1,4 @@
-# SRIP 2024 Animal Classification
-
-**This repository was created for SRIP-2024.**
+# Animal Classification
 
 Kaggle Notebook Link: https://www.kaggle.com/code/k0vidsharma/srip-2024/notebook
 
